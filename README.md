@@ -9,8 +9,6 @@ Visualizing regression differences when regressing y on x and x on y using the y
     https://github.com/rogerjdeangelis/utl-visualizing-regression-differences-when-regressing-y-vs-x-and-x-vs-y-using-sas- 
     rggplot/blob/main/fatherson.pdf
 
-
-
     Not sure where this message is going, but I thought it was worth investigating.
     Question: How can we regress y on x  such that the regression is invertible?
 
