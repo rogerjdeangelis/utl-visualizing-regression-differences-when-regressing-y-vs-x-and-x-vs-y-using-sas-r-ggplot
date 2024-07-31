@@ -23,7 +23,7 @@ Visualizing regression differences when regressing y on x and x on y using the y
     https://tinyurl.com/2n48h7t3
     https://github.com/rogerjdeangelis/utl-visualizing-regression-differences-when-regressing-y-vs-x-and-x-vs-y-using-sas-r-ggplot
 
-    github
+    stackoverflow
     https://tinyurl.com/4xut78ed
     https://stackoverflow.com/questions/78727401/ggplots-geom-smooth-fails-with-formula-yx
 
