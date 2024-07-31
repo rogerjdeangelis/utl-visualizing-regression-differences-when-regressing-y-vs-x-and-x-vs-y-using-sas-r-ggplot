@@ -2,6 +2,10 @@
 
 Visualizing regression differences when regressing y on x and x on y using the y given x equation and it inverse
 
+output graphic
+https://tinyurl.com/4rmuchu2
+https://github.com/rogerjdeangelis/utl-visualizing-regression-differences-when-regressing-y-vs-x-and-x-vs-y-using-sas-r-ggplot/blob/main/fatherson.pdf
+
 Not sure where this message is going, but I thought it was worth investigating.
 Question: How can we regress y on x  such that the regression is invertible?
 
